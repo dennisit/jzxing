@@ -1,0 +1,2 @@
+# jzxing
+java simple zxing 
